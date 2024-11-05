@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineApiDemo", "WolverineApiDemo\WolverineApiDemo.csproj", "{C570AE39-DA53-4F77-8E3B-CCEFD413F656}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingContract", "MessagingContract\MessagingContract.csproj", "{505AFD7A-CDC2-4055-A5AD-9C3298C21FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C570AE39-DA53-4F77-8E3B-CCEFD413F656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C570AE39-DA53-4F77-8E3B-CCEFD413F656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C570AE39-DA53-4F77-8E3B-CCEFD413F656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505AFD7A-CDC2-4055-A5AD-9C3298C21FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505AFD7A-CDC2-4055-A5AD-9C3298C21FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505AFD7A-CDC2-4055-A5AD-9C3298C21FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505AFD7A-CDC2-4055-A5AD-9C3298C21FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
